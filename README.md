@@ -51,7 +51,7 @@ Class SpringSecurityConfig:
 
 ### Exemplo de uso por imagens
   
-  <img src= "https://github.com/Cauadev/LOGINCONTACTURA/blob/master/Login.png" width = "90%">
+  <img src= "https://github.com/Cauadev/LOGINCONTACTURA/blob/master/Login.png" width = "100%">
   <br>
-  <img src= "https://github.com/Cauadev/LOGINCONTACTURA/blob/master/Test.png" width = "90%">
+  <img src= "https://github.com/Cauadev/LOGINCONTACTURA/blob/master/Test.png" width = "100%">
   
