@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "security.jwt.expiracao",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.expiracao'"
+  },
+  {
+    "name": "security.jwt.chave-assinatura",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.chave-assinatura'"
+  }
+]}
