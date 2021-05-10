@@ -1,4 +1,4 @@
-# Pagamentos PicPay
+# Login API
 
 Este repositório contém uma proposta de projeto para consumo da API de login. Feita para treinamento FlexPag
 ## Principais tecnologias
